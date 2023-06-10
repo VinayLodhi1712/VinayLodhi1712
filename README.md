@@ -1,7 +1,8 @@
-[![MasterHead](https://images.app.goo.gl/xdufnoLcYjDrGHtr9)]
+
 <h1 align="center">Hi 👋, I'm Vinay Anand Lodhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/8NaivXMfsmUirPMf9">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaylodhi1712&label=Profile%20views&color=0e75b6&style=flat" alt="vinaylodhi1712" /> </p>
 
 - 🔭 I’m currently working on **Music player, portfolio website**
