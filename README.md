@@ -1,10 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Vinay Anand Lodhi</h1>
-<h3 align="center">I am Vinay Anand Lodhi, an enthusiastic and motviated Student in the field of computer Scinece with a good hand in web development .I am currently learning Data Structure and algorithm for my interest in problem solving. Find out more about me & feel free to connect with me here:
+<h3 align="center">I am Vinay Anand Lodhi, an enthusiastic and motviated Student in the field of computer Science with a good hand in web development .I am currently learning Data Structure and algorithm for my interest in problem solving. Find out more about me & feel free to connect with me here:
 
 </h3>
 
-<img align="right" alt="coding" width="400" src="[https://images.app.goo.gl/8NaivXMfsmUirPMf9](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
+<img align="right" alt="coding" width="400" src="[https://images.app.goo.gl/8NaivXMfsmUirPMf9](![id (1)](https://github.com/VinayLodhi1712/VinayLodhi1712/assets/135756009/54e5e8da-d75a-478d-a952-bd5fde6985e7)
+)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaylodhi1712&label=Profile%20views&color=0e75b6&style=flat" alt="vinaylodhi1712" /> </p>
 
 - 🔭 I’m currently working on **Portfolio website**
