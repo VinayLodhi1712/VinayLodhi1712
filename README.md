@@ -26,17 +26,7 @@
 - 🔭 Working on **Advanced React Projects** and **Full-Stack Applications**
 - 🌱 Exploring **Next.js, Express.js** and **Cloud Technologies**
 - 👯 Open to collaborate on **MERN Stack Projects** and **Open Source**
-- 📫 Reach me at **vinayanandlodhi12@gmail.com**center">Hi 👋, I'm Vinay Anand Lodhi</h1>
-<h3 align="center">An aspiring MERN Stack developer from India</h3>
-
-<a href="https://app.daily.dev/vinaylodhi12"><img src="https://api.daily.dev/devcards/0fe728de1cf84f7cb0ac6b3650216410.png?r=qtf" width="260" alt="Dev Card"/></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaylodhi1712&label=Profile%20views&color=0e75b6&style=flat" alt="vinaylodhi1712" /> </p>
-
-- 🔭 I’m currently working on **E-commerce Website, Portfolio**
-
-- 🌱 I’m currently learning **backend**
-
-- 📫 How to reach me **vinayanandlodhi12@gmail.com**
+- 📫 Reach me at **vinayanandlodhi12@gmail.com**
 
 ## 🌐 Connect with me
 
@@ -56,7 +46,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/lodhivinay1712/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vinayanandlodhi1)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vinayanandlodhi12)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/vinayanandlodhi1)
 
 </div>
 
@@ -119,6 +108,10 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaylodhi1712&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinaylodhi1712&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
 ## 🏆 GitHub Achievements
